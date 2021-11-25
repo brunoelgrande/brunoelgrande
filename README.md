@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunoelgrande
 - 👀 I’m interested in Data Sciences
-- 🌱 I’m currently learning R Studio
+- 🌱 I’m currently learning R and R Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
