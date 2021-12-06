@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brunoelgrande
 - 👀 I’m interested in Data Sciences
-- 🌱 I’m currently learning R and R Studio
+- 🌱 I’m currently learning R / R Studio, SQL and Power BI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : info@brunogauthier.net
 
 <!---
 brunoelgrande/brunoelgrande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
